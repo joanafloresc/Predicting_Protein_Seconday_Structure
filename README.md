@@ -13,7 +13,8 @@ From: [Article](https://academic.oup.com/bib/article/19/3/482/2769436?login=fals
 ### Goal
 Create model to predict secundary structure from sequence of Aminoacids.
 
-###Sources
+### Sources
+
 
 [Article](https://academic.oup.com/bib/article/19/3/482/2769436?login=false)
 

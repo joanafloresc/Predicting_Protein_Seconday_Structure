@@ -4,5 +4,4 @@ data: '../01_data/data.csv'
 new_data: '../01_data/new_data.csv'
 xy: '../01_data/xy.csv'
 xy_06: '../01_data/xy_06.csv'
-
-x_sum_np: '../01_data/x_sum_np.csv'
+xy_enc: '../01_data/xy_enc.csv'

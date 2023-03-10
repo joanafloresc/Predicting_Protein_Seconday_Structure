@@ -1,5 +1,7 @@
 # Predicting Protein Secondary Structure
 
+![Image](https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/wp-content/uploads/sites/110/2020/09/Figure13-1024x973.png)
+
 
 ### Introduction
 "Proteins are linear polymeric chains made of protein-specific sequences of 20 amino acid residue types. Proteins can perform a wide variety of molecular functions ranging from molecular recognition, catalysis, molecular motors, to structural support, in part because they can fold into many different three-dimensional structural shapes. Thus, understanding how proteins function requires knowledge of their structures"
@@ -15,7 +17,5 @@ Create model to predict secundary structure from sequence of Aminoacids.
 
 ### Sources
 
-
-[Article](https://academic.oup.com/bib/article/19/3/482/2769436?login=false)
-
-[Dataset](https://www.kaggle.com/datasets/alfrandom/protein-secondary-structure)
+[Dataset Source](https://webs.iiitd.edu.in/raghava/ccpdb/compile.php)
+[Kaggle Source](https://www.kaggle.com/datasets/tamzidhasan/protein-secondary-sequence)

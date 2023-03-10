@@ -1,6 +1,6 @@
 # Predicting Protein Secondary Structure
 
-![Image](https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/wp-content/uploads/sites/110/2020/09/Figure13-1024x973.png)
+![Image](https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/wp-content/uploads/sites/110/2020/09/Figure13-1024x973.png | width=200)
 
 
 ### Introduction

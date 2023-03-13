@@ -2,7 +2,7 @@
 
 <img src="https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/wp-content/uploads/sites/110/2020/09/Figure13-1024x973.png" width="400" height="400">
 
-### Summary
+### Tools
 Data Mining, Data Modelling, Neural Networks, Tableau
 
 ### Introduction to the subject
